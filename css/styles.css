@@ -9,15 +9,12 @@
   border-width: thin;
 }
 
-.article {
-  margin: 10px;
-}
+.wrap-left {
+  float: left;
+  margin-right: 1em;
+  }
 
 .column {
   float: left;
   width: 50%;
-}
-
-p {
-  clear: both;
 }
